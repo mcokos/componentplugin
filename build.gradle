@@ -23,8 +23,8 @@ gradlePlugin {
 
 pluginBundle {
     // These settings are set for the whole plugin bundle
-    website = 'https://github.com/mcokos/myplugin'
-    vcsUrl = 'https://github.com/mcokos/myplugin.git'
+    website = 'https://github.com/mcokos/componentplugin'
+    vcsUrl = 'https://github.com/mcokos/componentplugin.git'
 
 
     description = 'Greetings from here!'
